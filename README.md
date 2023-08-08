@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 </p>
+<br>
 <p align='center'>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 </p>
-
+<br>
 <p align='center'>
   <img src="https://img.shields.io/badge/-Slack-753188?style=flat-plastic&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
