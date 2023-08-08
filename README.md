@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
-https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical
-[![jaemans GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemanc)](https://github.com/jaemanc/github-readme-stats)
 
 https://github-readme-stats.vercel.app/api?username=jaeman_choi)&hide=stars,contribs&count_private=true
