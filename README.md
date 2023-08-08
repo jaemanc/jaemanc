@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![jaemans GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemanc)](https://github.com/jaemanc/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api?username=jaemanc&hide=stars,contribs&count_private=true
+https://github-readme-stats.vercel.app/api?username=jaemanc)&hide=stars,contribs&count_private=true
