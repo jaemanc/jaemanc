@@ -1,3 +1,6 @@
+### blog : https://girinprogram93.tistory.com/
+
+
 ### Hi there 👋
 
 <!--
