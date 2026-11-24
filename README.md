@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Jaeman Choi (최재만)
 
+<p>contact : jaemanc93@gmail.com</p>
+
 <div align="left">
   <a href="https://girinprogram93.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tech_Blog-F3722C?style=for-the-badge&logo=tistory&logoColor=white" alt="Tech Blog"/>
